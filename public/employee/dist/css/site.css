@@ -1,0 +1,12 @@
+.dropdown-menu-lg {
+    min-width: 150px !important;
+}
+
+.tbd_data_search {
+    padding-left: 17px !important;
+    margin-top: 10px;
+}
+
+.tbd_data_search tr {
+    margin-right: 40px;
+}
